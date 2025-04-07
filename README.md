@@ -9,15 +9,20 @@
   <img src="https://komarev.com/ghpvc/?username=yunseo326&label=Profile%20views&color=0e75b6&style=flat" alt="yunseo326" />
 </p>
 
-- 🔭 I’m currently working on [Project Name](https://github.com/yunseo326/Lider_sound_move)
-- 🌱 I’m currently learning **[Tech or Frameworks]**
-- 👯 I’m looking to collaborate on **[Open Source or Side Project Name]**
-- 🤝 I’m looking for help with **[Something you're learning or building]**
-- 💬 Ask me about **[Topics you're good at]**
-- 📫 How to reach me: **[Your Email or Socials]**
-- ⚡ Fun fact: **[Something unique or funny about you]**
+### 📌 Featured Repositories
 
----
+<p align="center">
+  <a href="<!-- REPO1_URL -->">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yunseo326&repo=https://github.com/yunseo326/Lider_sound_move&theme=radical" />
+  </a>
+  <a href="<!-- REPO2_URL -->">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yunseo326&repo=https://github.com/yunseo326/Lider_sound_move&theme=radical" />
+  </a>
+  <a href="<!-- REPO3_URL -->">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yunseo326&repo=https://github.com/yunseo326/Lider_sound_move&theme=radical" />
+  </a>
+</p>
+
 
 ### 🛠️ Languages and Tools
 
