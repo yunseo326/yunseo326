@@ -50,26 +50,26 @@
 
 <p align="center">
   <a href="https://github.com/yunseo326/Lidar_sound_move">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yunseo326&repo=Lidar_sound_move&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yunseo326&repo=Lider_sound_move&theme=radical" />
   </a>
   <br/>
-  <strong>Lidar_sound_move</strong><br/>
+  <strong>Lider_sound_move</strong><br/>
   Lidar 센서와 음원 위치 추적 데이터를 기반으로, ROS를 통해 로봇의 움직임을 제어한 통합 프로젝트입니다.
 </p>
 
 <p align="center">
   <a href="https://github.com/yunseo326/4leg_arduino_mine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yunseo326&repo=4leg_arduino_mine&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yunseo326&repo=4leg_mine_arduino&theme=radical" />
   </a>
   <a href="https://github.com/yunseo326/mymujuco">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yunseo326&repo=mymujuco&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yunseo326&repo=mymujoco&theme=radical" />
   </a>
 </p>
 
 <p align="center">
-  <strong>4leg_arduino_mine</strong><br/>
+  <strong>4leg_mine_arduino</strong><br/>
   실제 4족 보행 로봇의 하드웨어 제어를 위한 아두이노 기반 코드입니다.<br/><br/>
-  <strong>mymujuco</strong><br/>
+  <strong>mymujoco</strong><br/>
   MuJoCo 시뮬레이터를 기반으로 4족 보행 로봇을 강화학습으로 제어하기 위한 실험용 코드입니다.<br/>
   아직 미완성된 상태이며, 계속 발전시켜 나갈 예정입니다.
 </p>
