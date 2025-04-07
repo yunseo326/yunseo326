@@ -9,17 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=yunseo326&label=Profile%20views&color=0e75b6&style=flat" alt="yunseo326" />
 </p>
 
-### 📌 Featured Repositories
-
-<p align="center">
-  <a href="<!-- REPO2_URL -->">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yunseo326&repo=Sound-source-localization-using-TDOA&theme=radical" />
-  </a>
-  <a href="<!-- REPO3_URL -->">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yunseo326&repo=yunseo326.github.io&theme=radical" />
-  </a>
-</p>
-
 
 
 ---
@@ -34,6 +23,28 @@
   Lidar 센서와 음원 위치 추적 데이터를 기반으로, ROS를 통해 로봇의 움직임을 제어한 통합 프로젝트입니다.
   가장 자랑할만한 프로젝트입니다.
 </p>
+
+
+<p align="center">
+  <a href="<!-- REPO2_URL -->">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yunseo326&repo=Sound-source-localization-using-TDOA&theme=radical" />
+  </a>
+  <br/>
+  <strong>Sound-source-localization-using-TDOA</strong><br/>
+  음원 위치를 추적하는 프로젝트입니다. 
+  위 Lidar_sound_move 프로젝트에 이미 존재하는 코드이지만 c++과 python 등 개인적으로 많이 성장한 프로젝트이기에 따로 표시했습니다.
+</p>
+
+
+<p align="center">
+  <a href="<!-- REPO3_URL -->">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yunseo326&repo=yunseo326.github.io&theme=radical" />
+  </a>
+  <br/>
+  <strong>Sound-source-localization-using-TDOA</strong><br/>
+  개인 웹사이트 관련 프로젝트입니다. 
+</p>
+
 
 <p align="center">
   <a href="https://github.com/yunseo326/4leg_arduino_mine">
