@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="<!-- REPO1_URL -->">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yunseo326&repo=https://github.com/yunseo326/Lider_sound_move&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yunseo326&repo=Lider_sound_move&theme=radical" />
   </a>
   <a href="<!-- REPO2_URL -->">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yunseo326&repo=https://github.com/yunseo326/Lider_sound_move&theme=radical" />
